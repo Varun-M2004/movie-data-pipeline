@@ -1,0 +1,12 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+data/ml-latest-small/
+data/omdb_cache.json
+data/*.zip
+.idea/
+.vscode/
+_verify_omdb.py
+_run_queries.py
